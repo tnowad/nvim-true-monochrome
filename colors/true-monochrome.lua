@@ -1,0 +1,1 @@
+require("true-monochrome").colorscheme()
